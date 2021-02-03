@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/CryptoMarketTracker/static/css/main.20f5b96d.chunk.css",
+    "main.js": "/CryptoMarketTracker/static/js/main.2cf11d33.chunk.js",
+    "main.js.map": "/CryptoMarketTracker/static/js/main.2cf11d33.chunk.js.map",
+    "runtime-main.js": "/CryptoMarketTracker/static/js/runtime-main.8c5025fe.js",
+    "runtime-main.js.map": "/CryptoMarketTracker/static/js/runtime-main.8c5025fe.js.map",
+    "static/js/2.b28d4cdb.chunk.js": "/CryptoMarketTracker/static/js/2.b28d4cdb.chunk.js",
+    "static/js/2.b28d4cdb.chunk.js.map": "/CryptoMarketTracker/static/js/2.b28d4cdb.chunk.js.map",
+    "index.html": "/CryptoMarketTracker/index.html",
+    "static/css/main.20f5b96d.chunk.css.map": "/CryptoMarketTracker/static/css/main.20f5b96d.chunk.css.map",
+    "static/js/2.b28d4cdb.chunk.js.LICENSE.txt": "/CryptoMarketTracker/static/js/2.b28d4cdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c5025fe.js",
+    "static/js/2.b28d4cdb.chunk.js",
+    "static/css/main.20f5b96d.chunk.css",
+    "static/js/main.2cf11d33.chunk.js"
+  ]
+}
